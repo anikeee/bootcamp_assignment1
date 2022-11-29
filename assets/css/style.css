@@ -16,6 +16,7 @@ body {
     background-color: #d9dcd6
 }
 
+/*header classes starts */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +47,7 @@ body {
     list-style-type: none
 }
 
+/*header classes ends*/
 a {
     color: #fff;
     text-decoration: none
@@ -122,6 +124,7 @@ p {
     font-size: 36px
 }
 
+/*for footer section*/
 .footer {
     padding: 30px;
     clear: both;
